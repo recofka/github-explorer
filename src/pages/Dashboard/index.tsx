@@ -46,7 +46,7 @@ const Dashboard: React.FC = () => {
         {repositories.map(repository => (
           <a
             key={repository.full_name}
-            href="https://github.com/recofka/waste-point-web"
+            href={`https://github.com/${repository.full_name}`}
           >
             <img
               src={repository.owner.avatar_url}
