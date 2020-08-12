@@ -28,6 +28,7 @@ const Dashboard: React.FC = () => {
     }
     return [];
   });
+  // localStorage.clear();
 
   useEffect(() => {
     localStorage.setItem(
