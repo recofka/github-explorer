@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="Github Explorer" title="#repo-image" src="src/assets/logo.svg" width="450px" />
 </h1>
- <p>Explore a Github repositories with an application built with React + Typescript</p>
+ <p align="center">Explore a Github repositories with an application built with React + Typescript</p>
 
 
 <p align="center">
