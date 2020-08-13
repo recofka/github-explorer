@@ -1,5 +1,6 @@
 <h1 align="center">
   <img alt="Github Explorer" title="#repo-image" src="src/assets/logo.svg" width="450px" />
+  <p>Explore a Github repositories with an application built with React + Typescript</p>
 </h1>
 
 
@@ -7,7 +8,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/recofka/github-explorer?style=flat-square">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/waste-point-web?style=flat-square">
+  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/github-explorer?style=flat-square">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/recofka/github-explorer?style=flat-square">
 
@@ -18,6 +19,8 @@
   <a href="https://github.com/recofka/github-explorer/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/recofka/github-explorer?style=flat-square">
   </a>
+
+  <img alt="GitHub language count" src="https://img.shields.io/netlify/ba71cfec-1e79-4531-90b2-4af21876a2d8?style=flat-square">
 
 </p>
 
@@ -40,7 +43,9 @@
 This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
+- [React Router Dom](https://github.com/ReactTraining/react-router#readme)
 - [Typescript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 
 
 
@@ -52,6 +57,7 @@ This project was developed with the following technologies:
 <h1 align="center">
 
 </h1>
+
 
 
 
