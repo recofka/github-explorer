@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="repo-image" title="#repo-image" src="src/assets/home-background.png" width="150px" />
+  <img alt="Github Explorer" title="#repo-image" src="src/assets/logo.svg" width="450px" />
 </h1>
 
 
@@ -24,7 +24,6 @@
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <!-- <a href="#goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; -->
   <!-- <a href="#features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; -->
@@ -46,10 +45,6 @@ This project was developed with the following technologies:
 
 
 ##  Project
-
-
-##  Backend
-
 
 
 
